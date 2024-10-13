@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+h1,h2,h3{
+	margin-top: 0px;
+}
+
+body{
+	background-color: #EEEEEE;
+}
+
+.container-fluid{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.row{
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.grid{
+	padding-right: 0px;
+	padding-left: 0px;
+
+}
+
+/*bagian sidebar*/
+.sidebar{
+	background-color: white;
+	box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.15);
+	
+
+}
+
+/*bagian navbar*/
+
